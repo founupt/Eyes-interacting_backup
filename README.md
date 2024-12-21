@@ -7,7 +7,7 @@ Hardware:
 Software:
 - Python 3.9 or higher.
 - Lib: mediapipe, opencv-python, pyautogui, numpy, time.
-
+ ![Alt text](resource/kthethong.jpg)
 
 1) Run the login.py file.
 - Enter user information:
@@ -15,9 +15,10 @@ Software:
 2) Start tracking (please wait a moment).
 The camera will automatically turn on to track your eyes. The screen will display the cursor position, gaze direction, and eye status (blinking or open).
 3) Basic Operations:
-  ![Alt text](resource/kthethong.jpg)
+  ![Alt text](resource/workflow-ngang.png)
 - Blink your left eye to click the left mouse button (2times for double click or blink your eyes in 3s)
 - Blink your right eye to click the right mouse button (DB click same as left eye)
 - Look up/down( in the left side) to scroll the page.
+  ![Alt text](resource/scrolling)
 - Close 2 eyes in 5s to automatic close
 - Press Esc on the keyboard or close the application window.
