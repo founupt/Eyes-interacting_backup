@@ -19,6 +19,6 @@ The camera will automatically turn on to track your eyes. The screen will displa
 - Blink your left eye to click the left mouse button (2times for double click or blink your eyes in 3s)
 - Blink your right eye to click the right mouse button (DB click same as left eye)
 - Look up/down( in the left side) to scroll the page.
-  ![Alt text](resource/scrolling)
+  ![Alt text](resource/scrolling.png)
 - Close 2 eyes in 5s to automatic close
 - Press Esc on the keyboard or close the application window.
